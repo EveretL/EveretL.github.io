@@ -1,0 +1,22 @@
+{
+    "name": "xxx",
+    "short_name": "xxx",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#2196f3",
+    "description": "EveretL's page",
+    "theme_color": "blue",
+    "icons": [{
+        "src": "./images/everetL.jpg",  //这个就是首页中的头像部分，主要路径
+        "sizes": "144x144",
+        "type": "image/jpeg"
+    }],
+    "related_applications": [{
+            "platform": "chrome_web_store"
+        },
+        {
+            "platform": "play",
+            "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
+        }
+    ]
+}
